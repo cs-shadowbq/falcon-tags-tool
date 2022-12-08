@@ -1,0 +1,7 @@
+{
+  "balbo": "production",
+  "foo?baz": "test",
+  "biz?baz": "smoke",
+  "bal*": "special",
+  "(bal)?bo.?": "special"
+}
